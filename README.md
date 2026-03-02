@@ -162,10 +162,11 @@ const anubhav = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=artorias-66&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4f8ef7&icon_color=00d4ff&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=artorias-66&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4f8ef7&fire=00d4ff&currStreakLabel=4f8ef7" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artorias-66&theme=github_dark" width="96%" />
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=artorias-66&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4f8ef7&text_color=c9d1d9&langs_count=8" width="40%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=artorias-66&theme=github_dark" width="32%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=artorias-66&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4f8ef7&fire=00d4ff&currStreakLabel=4f8ef7" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs-by-repos?username=artorias-66&theme=github_dark" width="32%" />
 
 </div>
 
