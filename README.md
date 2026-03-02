@@ -166,7 +166,7 @@ const anubhav = {
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=artorias-66&theme=github_dark" width="32%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=artorias-66&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4f8ef7&fire=00d4ff&currStreakLabel=4f8ef7" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs-by-repos?username=artorias-66&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artorias-66&theme=github_dark" width="32%" />
 
 </div>
 
