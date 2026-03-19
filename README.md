@@ -67,6 +67,7 @@ const anubhav = {
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
 
 **DevOps & Tools**
 
@@ -99,13 +100,15 @@ const anubhav = {
 </td>
 <td width="50%" valign="top">
 
-### [📊 Equity Research Tool (RAG)](https://github.com/artorias-66)
-> FastAPI · FAISS · BM25 · Python · Docker
+### [📊 Equity Research Tool (RAG)](https://github.com/artorias-66/News-Research-Tool)
+> FastAPI · FAISS · BM25 · Groq LLM · Docker
 
 - ✅ Hybrid retrieval: BM25 + FAISS + RRF
 - ✅ 93% retrieval relevance
 - ✅ 60% latency reduction (LRU + TTL)
-- ✅ 87 unit tests across 7 modules
+- ✅ 87 unit tests (70%+ coverage)
+
+[![Live](https://img.shields.io/badge/🌐_Live-brightgreen?style=flat-square)](https://sage-news-research-tool.streamlit.app/)
 
 </td>
 </tr>
