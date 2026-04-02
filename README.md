@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:4f8ef7,100:00d4ff&height=220&section=header&text=Anubhav%20Verma&fontColor=f0f4ff&fontSize=50&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20DevOps%20%7C%20LeetCode%20Knight&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:4f8ef7,100:00d4ff&height=220&section=header&text=Anubhav%20Verma&fontColor=f0f4ff&fontSize=50&fontAlignY=35&desc=Backend%20Engineer%20%7C%20System%20Design%20%7C%20LeetCode%20Knight&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-zeta-ruby-34.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-verma-b83787338)
@@ -17,15 +17,16 @@
 const anubhav = {
     role: "SDE Intern @ CloudCrane",
     education: "B.Tech IT — JSS Academy of Technical Education, Noida",
-    skills: ["Full-Stack", "DevOps", "AI/ML", "Competitive Programming"],
-    currentlyLearning: "System Design & Distributed Systems",
-    funFact: "I've solved 1000+ DSA problems and still counting 🚀"
+    skills: ["Backend Engineering", "System Design", "Distributed Systems", "AI/ML"],
+    currentlyLearning: "Advanced System Design & Scalable Architectures",
+    funFact: "I've solved 1500+ DSA problems and still counting 🚀"
 };
 ```
 
-- 🔭 I'm currently working as an **SDE Intern at CloudCrane** — shipping Flutter apps & building CI/CD pipelines
+- 🔭 I'm currently working as an **SDE Intern at CloudCrane** — architecting backend services, building CI/CD pipelines & shipping AI-powered features
 - 🧠 LeetCode **Knight** (Rating **1931**, Top **3.63%**) · Codeforces **Specialist** (1494) · CodeChef **3★** (1775)
-- 🛠️ I build production-grade systems — from **CRDT editors** to **RAG microservices** to **SaaS platforms**
+- 🛠️ I build production-grade systems — from **CRDT editors** to **distributed backends** to **AI-powered microservices**
+- 💫 Passionate about **system design**, **scalability**, and **algorithm optimization**
 - 📫 Reach me at **anubhavverma233@gmail.com**
 
 ---
