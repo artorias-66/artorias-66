@@ -24,7 +24,7 @@ const anubhav = {
 ```
 
 - 🔭 I'm currently working as an **SDE Intern at CloudCrane** — shipping Flutter apps & building CI/CD pipelines
-- 🧠 LeetCode **Knight** (Rating **1920**, Top **3.86%**) · Codeforces **Specialist** (1494) · CodeChef **3★** (1775)
+- 🧠 LeetCode **Knight** (Rating **1931**, Top **3.63%**) · Codeforces **Specialist** (1494) · CodeChef **3★** (1775)
 - 🛠️ I build production-grade systems — from **CRDT editors** to **RAG microservices** to **SaaS platforms**
 - 📫 Reach me at **anubhavverma233@gmail.com**
 
@@ -151,7 +151,7 @@ const anubhav = {
 
 | Platform | Handle | Rating | Rank |
 |:---:|:---:|:---:|:---:|
-| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | [anubhavverma233](https://leetcode.com/u/anubhavverma233) | **1920** | 🏅 Knight · Top 3.86% |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | [anubhavverma233](https://leetcode.com/u/anubhavverma233) | **1931** | 🏅 Knight · Top 3.63% |
 | ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | [anubhavverma233](https://codeforces.com/profile/anubhavverma233) | **1494** | 💜 Specialist |
 | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | [anubhavverma23](https://www.codechef.com/users/anubhavverma23) | **1775** | ⭐ 3 Star |
 
