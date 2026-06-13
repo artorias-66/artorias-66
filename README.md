@@ -116,29 +116,29 @@ const anubhav = {
 <tr>
 <td width="50%" valign="top">
 
-### [🔔 SubDub — Subscription Tracker](https://github.com/artorias-66/subscription_tracker_frontend)
-> React 19 · Node.js · Express · MongoDB · Upstash QStash
+### [📦 ProductIQ — Product Intelligence Dashboard](https://github.com/artorias-66/product-intelligence-dashboard)
+> React 18 · Vite · FastAPI · PostgreSQL · Groq · Gemini · Clerk · Docker
 
-- ✅ Full-stack SaaS with JWT auth
-- ✅ Durable email reminders (QStash)
-- ✅ Arcjet rate limiting & bot detection
-- ✅ 8 RESTful endpoints
+- ✅ Video/CSV ingestion with async job pipeline & live progress
+- ✅ AI extraction via Groq Vision + Gemini 2.5 Flash fallback
+- ✅ 11-rule validation engine with quality scoring (0–100)
+- ✅ Competitor price intelligence across 6 platforms + alerts
 
-[![Live](https://img.shields.io/badge/🌐_Live-brightgreen?style=flat-square)](https://subscription-tracker-eight-beige.vercel.app)
-[![Backend](https://img.shields.io/badge/Backend_Repo-333?style=flat-square&logo=github)](https://github.com/artorias-66/subscription_tracker)
+[![Live](https://img.shields.io/badge/🌐_Live-brightgreen?style=flat-square)](https://product-intelligence-dashboard-nine.vercel.app)
+[![API](https://img.shields.io/badge/Swagger_API-85EA2D?style=flat-square&logo=swagger&logoColor=black)](https://product-intelligence-api-dkuo.onrender.com/api/docs)
 
 </td>
 <td width="50%" valign="top">
 
-### [📚 Book Review Platform](https://github.com/artorias-66/Book-Review-Platform)
-> React 18 · Express · MongoDB · Helmet.js · Mongoose 8
+### [🔗 Distributed URL Shortener](https://github.com/artorias-66/distributed-url-shortener)
+> FastAPI · PostgreSQL · Redis · SQLAlchemy 2 · Docker · GitHub Actions
 
-- ✅ Full MERN stack with star ratings
-- ✅ 10+ security enhancements
-- ✅ Search, filter, pagination
-- ✅ Client + server validation
+- ✅ Cache-aside pattern — ~75% latency reduction vs DB-only
+- ✅ Redis token-bucket rate limiting shared across all instances
+- ✅ Dynamic TTL enforcement — no stale URLs served from cache
+- ✅ 55 tests (slug, cache, rate limit, API) with CI/CD pipeline
 
-[![Live](https://img.shields.io/badge/🌐_Live-brightgreen?style=flat-square)](https://book-review-platform-sage-one.vercel.app/)
+[![Docs](https://img.shields.io/badge/Swagger_Docs-85EA2D?style=flat-square&logo=swagger&logoColor=black)](http://localhost:8000/docs)
 
 </td>
 </tr>
