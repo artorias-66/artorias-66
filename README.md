@@ -130,7 +130,7 @@ const anubhav = {
 </td>
 <td width="50%" valign="top">
 
-### [🔗 Distributed URL Shortener](https://github.com/artorias-66/distributed-url-shortener)
+### [🔗 Distributed URL Shortener](https://github.com/artorias-66/URL_Shortener)
 > FastAPI · PostgreSQL · Redis · SQLAlchemy 2 · Docker · GitHub Actions
 
 - ✅ Cache-aside pattern — ~75% latency reduction vs DB-only
