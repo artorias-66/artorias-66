@@ -138,7 +138,7 @@ const anubhav = {
 - ✅ Dynamic TTL enforcement — no stale URLs served from cache
 - ✅ 55 tests (slug, cache, rate limit, API) with CI/CD pipeline
 
-[![Docs](https://img.shields.io/badge/Swagger_Docs-85EA2D?style=flat-square&logo=swagger&logoColor=black)](http://localhost:8000/docs)
+[![Docs](https://img.shields.io/badge/Swagger_Docs-85EA2D?style=flat-square&logo=swagger&logoColor=black)](https://url-shortener-teal-psi.vercel.app/docs)
 
 </td>
 </tr>
