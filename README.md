@@ -18,14 +18,14 @@ const anubhav = {
     role:        "SDE Intern @ Anakin (YC S21) · Bengaluru (On-site)",
     education:   "B.Tech IT — JSS Academy of Technical Education, Noida (May 2027)",
     focus:       ["Backend Engineering", "Reverse Engineering", "Distributed Systems", "Production Debugging", "Cloud Infrastructure"],
-    competitive: "LeetCode Knight — 2007 · Top 2.54% · 2000+ problems solved",
+    competitive: "LeetCode Knight — 2007 · Top 2.57% · 2000+ problems solved",
 };
 ```
 
 - 🏢 Currently **SDE Intern @ Anakin (YC S21)** (on-site, Bengaluru)
 - 🔍 I like understanding how unfamiliar systems work, tracing problems to their root cause, and building reliable data and software workflows
 - 🚀 Working across scraping pipelines, production data quality, reverse-engineered app/API flows, and AWS infrastructure analysis
-- 🏅 LeetCode **Knight** (Rating **2007**, Top **2.54%**) · Codeforces **Specialist** (1494) · CodeChef **3★** (1775)
+- 🏅 LeetCode **Knight** (Rating **2007**, Top **2.57%**) · Codeforces **Pupil** (1370, peak 1498 Specialist) · CodeChef **3★** (1715, peak 1776)
 - 📫 Reach me at **anubhavverma233@gmail.com**
 
 ---
@@ -167,7 +167,7 @@ Also built a **physical anti-counterfeiting fingerprint system** using Reed-Solo
 - ✅ Redis token-bucket rate limiting — 100 req / 60s, shared across instances
 - ✅ 55 pytest tests · full CI/CD pipeline
 
-[![Repo](https://img.shields.io/badge/📦_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/artorias-66/URL_Shortener)
+[![Docs](https://img.shields.io/badge/Swagger_Docs-85EA2D?style=flat-square&logo=swagger&logoColor=black)](https://url-shortener-teal-psi.vercel.app/docs)
 
 </td>
 <td width="50%" valign="top">
@@ -195,11 +195,11 @@ Also built a **physical anti-counterfeiting fingerprint system** using Reed-Solo
 
 | Platform | Handle | Rating | Rank |
 |:---:|:---:|:---:|:---:|
-| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | [anubhavverma233](https://leetcode.com/u/anubhavverma233) | **2007** | 🏅 Knight · Top 2.54% |
-| ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | [anubhavverma233](https://codeforces.com/profile/anubhavverma233) | **1494** | 💜 Specialist |
-| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | [anubhavverma23](https://www.codechef.com/users/anubhavverma23) | **1775** | ⭐ 3 Star |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | [anubhavverma233](https://leetcode.com/u/anubhavverma233) | **2007** | 🏅 Knight · Top 2.57% |
+| ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | [anubhavverma233](https://codeforces.com/profile/anubhavverma233) | **1370** | 💜 Pupil · Peak 1498 (Specialist) |
+| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | [anubhavverma23](https://www.codechef.com/users/anubhavverma23) | **1715** | ⭐ 3 Star · Peak 1776 |
 
-**2000+ algorithmic problems solved** across all platforms · 1500+ on LeetCode
+**2000+ algorithmic problems solved** across all platforms · 990+ on LeetCode
 
 🏆 **LeetCode Weekly Contest 468** — Rank **689 / 36,305** (Top 1.9%)
 
